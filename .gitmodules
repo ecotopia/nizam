@@ -1,0 +1,3 @@
+[submodule "svg2fontforge"]
+	path = svg2fontforge
+	url = https://github.com/ecotopia/svg2fontforge.git

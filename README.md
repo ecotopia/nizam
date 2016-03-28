@@ -1,0 +1,5 @@
+- Script to generate font from SVG is here: https://github.com/ecotopia/svg2fontforge
+- Characters manually added: ß, space (width 350)
+- Auto width with separation 75
+- Auto kerning by class, separation 75, min kern 0, touching, not only closer
+- Adapted kerning for classes E, R, T (by typing in AEA, BEB, CEC, ..., ARA, BRB, ...)
